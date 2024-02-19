@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/suthaharsagayakumarc/eclipse-workspace/Calculator/libs/spring-aop-4.3.25.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suthaharsagayakumarc/eclipse-workspace/Calculator/libs/spring-beans-4.3.25.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suthaharsagayakumarc/eclipse-workspace/Calculator/libs/spring-context-4.3.25.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suthaharsagayakumarc/eclipse-workspace/Calculator/libs/spring-core-4.3.25.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suthaharsagayakumarc/eclipse-workspace/Calculator/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
